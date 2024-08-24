@@ -6,12 +6,7 @@ const App = () => {
   return (
     <Router>
       <Parent/>
-      {/* <Routes>
-        <Route path="/" element={<CreateCourse />} />
-        <Route path="/course-list" element={<CourseList />} />
-        <Route path="/create-instance" element={<CreateCourseInstance />} />
-        <Route path="/instance-list" element={<CourseInstanceList />} />
-      </Routes> */}
+      
     </Router>
   );
 };
